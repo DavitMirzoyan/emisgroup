@@ -4,9 +4,10 @@ Initially, I tried to use Docker but some problem occured when I tried to call p
 
 How to run the project?
 Steps:
-  1. Download the emis folder
-  2. In terminal go to src folder
-  3. Run: php -S 127.0.0.1:8000
-  4. In website run: localhost:8000
-  5. Press the "Load Patients' Data" button
-  6. Select your required patient's information
+  1. Go to the master branch instead of main
+  2. Download the emis folder
+  3. In terminal go to src folder
+  4. Run: php -S 127.0.0.1:8000
+  5. In website run: localhost:8000
+  6. Press the "Load Patients' Data" button
+  7. Select your required patient's information
