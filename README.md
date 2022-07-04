@@ -9,4 +9,4 @@ Steps:
   3. Run: php -S 127.0.0.1:8000
   4. In website run: localhost:8000
   5. Press the "Load Patients' Data" button
-  6. Select your required patient's infomration
+  6. Select your required patient's information
